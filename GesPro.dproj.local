@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/29 08:31:43.339,=C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:32:38.539,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uPrincipal.pas=C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:32:38.539,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uPrincipal.dfm=C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/29 08:32:44.260,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\GesPro.dproj=C:\Users\sistemas\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/29 08:32:55.179,=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:33:12.604,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\udmDatos.pas=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:33:12.605,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\udmDatos.dfm=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.dfm</Transaction>
+    <Transaction>2020/02/29 08:39:15.528,=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:39:18.289,=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit2.pas</Transaction>
+    <Transaction>2020/02/29 08:40:10.664,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uResponsables.dfm=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.dfm</Transaction>
+    <Transaction>2020/02/29 08:40:10.664,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uResponsables.pas=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 08:40:13.856,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uTareas.dfm=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit2.dfm</Transaction>
+    <Transaction>2020/02/29 08:40:13.856,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uTareas.pas=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit2.pas</Transaction>
+    <Transaction>2020/02/29 09:49:34.416,=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 09:50:04.137,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uVisorTareas.pas=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.pas</Transaction>
+    <Transaction>2020/02/29 09:50:04.137,C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\uVisorTareas.dfm=C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\Gestor de Proyectos\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
